@@ -22,4 +22,4 @@ controller('AppCtrl', ['$scope', 'CordovaService',
       }
     );
   }
-])
+]);

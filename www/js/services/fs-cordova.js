@@ -13,7 +13,9 @@ angular.module('fsCordova', [])
     var timoutPromise = $timeout(function() {
       if ($window.cordova){
         defer.resolve($window.cordova);
-      }       
+      } else {
+        defer.reject("Cordova failed to load");
+      } 
     }, 1200);
 
     angular.element($document)[0].addEventListener('deviceready', function() {
