@@ -2,7 +2,7 @@
 
 This is a very simple example of how to load Cordova with an AngularJS app. It bootstraps Angular as usual and loads Cordova via a module.
 
-I've also thrown in FastClick which improves perceived responsiveness in webmobile apps based on web views.
+I've also thrown in FastClick which improves perceived responsiveness in mobile apps based on web views.
 
 ### Install dependencies
 
