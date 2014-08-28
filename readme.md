@@ -18,9 +18,6 @@ Install from [NPM](https://www.npmjs.org/). (Install [node.js](http://nodejs.org
 
     sudo npm install -g cordova
     
-    // I had to do this first time:
-    sudo chown -R ade /usr/local/lib/node_modules/cordova/
-    
     // to update
     sudo npm update -g cordova
     
