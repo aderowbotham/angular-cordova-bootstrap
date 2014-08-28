@@ -1,0 +1,7 @@
+!.gitkeep
+!.gitignore
+/platforms/
+/hooks/
+/plugins/
+/www/vendor/*
+

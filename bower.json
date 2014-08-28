@@ -1,0 +1,20 @@
+{
+  "name": "angular-cordova-boostrap",
+  "version": "1.0.0",
+  "authors": [
+    "Adrian Rowbotham <aderowbotham@gmail.com>"
+  ],
+  "description": "Bootstraps an app with both Cordova and Angular JS",
+  "keywords": [
+    "angularjs",
+    "cordova",
+    "javascript"
+  ],
+  "license": "MIT https://spdx.org/licenses/MIT#licenseText",
+  "homepage": "https://aderowbotham.com",
+  "dependencies": {
+    "angularjs": "~1.2.23",
+    "cordova": "~3.4.0",
+    "fastclick": "~1.0.3"
+  }
+}
