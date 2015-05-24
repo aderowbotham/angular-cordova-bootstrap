@@ -27,7 +27,7 @@ Install from [NPM](https://www.npmjs.org/). (Install [node.js](http://nodejs.org
 ##### 2. Create a Cordova project and add iOS and Android
 
     cordova create NgCordova com.aderowbotham.ngcordova "Angular Cordova Bootstrap"
-    cd AmazingApp/
+    cd NgCordova/
     cordova platform add ios
     cordova platform add android
     
